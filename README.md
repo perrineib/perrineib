@@ -3,7 +3,37 @@
 
 ### 💫 About Me:
 I'm a **Master Data Scientist** student and a mechanical engineer. <br>
+I enjoy transforming data into **actionable insights** and creating solutions to solve real-world problems.
 
+---
+
+## 🔧 Tools and Technologies
+
+### Programming Languages
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn)  
+- R   
+- SQL   
+
+### Machine Learning & AI
+- scikit-learn, XGBoost, LightGBM  
+- NLP (spacy, transformers)  
+
+### Visualization & BI
+- Tableau  
+- Matplotlib, Seaborn, Plotly  
+- Streamlit  
+
+### Big Data 
+- Spark (PySpark)  
+
+### Dev & Productivity Tools
+- Git & GitHub  
+- Docker 
+- Jupyter Notebook / Jupyter Lab  
+- VS Code  
+
+
+  
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/perrine-i) 
 

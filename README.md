@@ -64,24 +64,24 @@ Et si je peux en plus faire des **graphiques qui donnent envie** de lire les ré
 
 ---
 
-## 💻 Projets récents
+## 🚀 Projets récents
 
 | Projet | Domaine | Stack |
 |--------|---------|-------|
-| 🏥 **Triage aux urgences — Aide IOA** | LLM | Python · Streamlit · Prompt Engineering |
+| 🏥 [**Triage aux urgences — Aide IOA**](https://github.com/perrineib/mediatriage-ai) | LLM | Python · Streamlit · Prompt Engineering |
 | 🔍 **Matching CV & Recherche d'emploi** | NLP · LLM | Python · Sentence Transformers |
-| 🏠 **Prédiction DPE — Savoie** | ML · Data Viz | Scikit-learn · Plotly |
-| 📦 **Package R — Clustering de variables** | Statistiques · R | R · Package Dev |
+| 🏠 [**Prédiction DPE — Savoie**](https://github.com/perrineib/SISE_Enedis) | ML · Data Viz | Scikit-learn · Plotly |
+| 📦 [**Package R — Clustering de variables**](https://github.com/perrineib/clustering_R_app) | Statistiques · R | R · Package Dev |
 | 🔒 **Détection connexions suspectes** | Cybersécurité | Python · Scikit-learn |
 | 🍎 **Détection fruits & légumes** | Deep Learning | YOLOv8 · PyTorch |
 | 🎙️ **Assistant de réunion** | LLM · NLP | Whisper · Streamlit |
 | 💳 **Détection de fraudes bancaires** | ML · Finance | XGBoost · SMOTE |
 | ⚡ **Prédiction conso électrique** | Time Series | ARIMA · LSTM |
-| 🗄️ **Formation Apache Doris** | Data Engineering | Doris · SQL · OLAP |
+| 🗄️ [**Formation Apache Doris**](https://github.com/perrineib/apache_doris-data_analyse) | Data Engineering | Doris · SQL · OLAP |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 

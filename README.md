@@ -72,8 +72,8 @@ Et si je peux en plus faire des **graphiques qui donnent envie** de lire les ré
 | 🔍 **Matching CV & Recherche d'emploi** | NLP · LLM | Python · Sentence Transformers |
 | 🏠 [**Prédiction DPE — Savoie**](https://github.com/perrineib/SISE_Enedis) | ML · Data Viz | Scikit-learn · Plotly |
 | 📦 [**Package R — Clustering de variables**](https://github.com/perrineib/clustering_R_app) | Statistiques · R | R · Package Dev |
-| 🔒 **Détection connexions suspectes** | Cybersécurité | Python · Scikit-learn |
-| 🍎 **Détection fruits & légumes** | Deep Learning | YOLOv8 · PyTorch |
+| 🔒 [**Détection connexions suspectes**](https://github.com/perrineib/OOPSISE) | Cybersécurité | Python · Scikit-learn |
+| 🍎 [**Détection fruits & légumes**](https://github.com/perrineib/PrimeurVision) | Deep Learning | YOLOv8 · PyTorch |
 | 🎙️ **Assistant de réunion** | LLM · NLP | Whisper · Streamlit |
 | 💳 **Détection de fraudes bancaires** | ML · Finance | XGBoost · SMOTE |
 | ⚡ **Prédiction conso électrique** | Time Series | ARIMA · LSTM |

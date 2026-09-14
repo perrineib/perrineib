@@ -28,7 +28,7 @@ Et si je peux en plus faire des **graphiques qui donnent envie** de lire les ré
 ![Python](https://img.shields.io/badge/Python-9b1c6e?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-FFD9FB?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-9b1c6e?style=for-the-badge&logo=postgresql&logoColor=white)
-![SAS](https://img.shields.io/badge/R-FFD9FB?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-FFD9FB?style=for-the-badge&logo=SAS&logoColor=white)
 
 ### 📚 Librairies & Frameworks (Data Science, ML & Viz)
 
